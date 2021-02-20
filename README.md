@@ -1,10 +1,10 @@
-# Robert's Farm of Ideas: {running-Idea-number}
+# Robert's Farm of Ideas: 4
 
 [![DOI](https://zenodo.org/badge/{badge-number-from-zenodo}.svg)](https://zenodo.org/badge/latestdoi/{badge-number-from-zenodo})
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## This idea in {number-of-characters} characters
-It's good to have a template for multiple related things.
+It is possible to predict the spectrum of e.g. a nucleobase in a nucleoside-nucleobase conversion. That idea is not new (see Twitter thread of Felix Kaspar's poster), but it's nice to show it explicitly. 
 
 ## How to Use
 You are free to use this idea in whatever way you like. I put this material under CC-BY license, just to make it legally clear, but: "Gedanken sind frei" (ideas are free) -- I don't expect them to be protectable anyway.
