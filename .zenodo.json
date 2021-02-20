@@ -1,13 +1,16 @@
 {
-    "description": "{Description goes here}.", 
-    "title": "Robert's Farm of Ideas: {running-number-of-idea} -- {running-title-of-idea}", 
+    "description": " It is possible to predict the spectrum of e.g. a nucleobase in a nucleoside-nucleobase conversion. .", 
+    "title": "Robert's Farm of Ideas: 4 -- spectrum prediction from conversion", 
     "license": {
         "id": "CC-BY-4.0"
     }, 
-    "notes": "Development is happening here: https://github.com/roberts-farm-of-ideas/{running-number-of-idea}", 
+    "notes": "Development is happening here: https://github.com/roberts-farm-of-ideas/4", 
     "keywords": [
-        "{keyword1}",
-        "{keyword2}"
+        "spectral unmixing",
+        "spectral deconvolution",
+        "nucleoside",
+        "nucleobase",
+        "reaction monitoring",
     ],
     "creators": [
     {
