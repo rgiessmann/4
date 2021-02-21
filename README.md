@@ -6,6 +6,11 @@
 ## This idea in {number-of-characters} characters
 It is possible to predict the spectrum of e.g. a nucleobase in a nucleoside-nucleobase conversion. That idea is not new (see Twitter thread of Felix Kaspar's poster), but it's nice to show it explicitly. 
 
+## Sounds great, but...
+You are interested in this topic? But the idea is gibberish and incomplete, or non-sense? Well, you're probably right! 
+
+All of this is work in progress -- I would be very happy if you get in touch so we can improve this!
+
 ## How to Use
 You are free to use this idea in whatever way you like. I put this material under CC-BY license, just to make it legally clear, but: "Gedanken sind frei" (ideas are free) -- I don't expect them to be protectable anyway.
 
