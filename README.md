@@ -1,9 +1,9 @@
-# Robert's Farm of Ideas: 4
+# Robert's Farm of Ideas: 4 -- spectrum prediction from conversion
 
 [![DOI of this idea](https://zenodo.org/badge/DOI/10.5281/zenodo.4556476.svg)](https://doi.org/10.5281/zenodo.4556476)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-## This idea in {number-of-characters} characters
+## This idea in short
 It is possible to predict the spectrum of e.g. a nucleobase in a nucleoside-nucleobase conversion. That idea is not new (see Twitter thread of Felix Kaspar's poster), but it's nice to show it explicitly. 
 
 ## Sounds great, but...
